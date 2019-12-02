@@ -1,0 +1,23 @@
+{
+  "name": "password-home",
+  "version": "1.0.0",
+  "description": "Simple Node.js password manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golubs/password-home.git"
+  },
+  "author": "golubs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golubs/password-home/issues"
+  },
+  "homepage": "https://github.com/golubs/password-home#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  },
+  "dependencies": {}
+}
